@@ -17,10 +17,10 @@ const App = () => {
 
       <CuoralLauncher
         publicKey={PUBLIC_KEY}
-        email="testuser@example.com"
-        firstName="John"
-        lastName="Doe"
-        backgroundColor="purple"
+        email=""
+        firstName=""
+        lastName=""
+        backgroundColor="blue"
         icon={
           <Text style={{ color: 'white', fontSize: 24, fontWeight: 'bold' }}>
             💬
