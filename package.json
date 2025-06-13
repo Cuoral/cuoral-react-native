@@ -1,14 +1,14 @@
 {
   "name": "cuoral-react-native",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "description": "Cuoral react native customer interaction SDK",
-  "main": "lib/module/index.js",
+  "main": "lib/module/index.jsx",
   "types": "./lib/typescript/src/index.d.ts",
   "react-native": "src/index.jsx",
   "exports": {
     ".": {
-      "import": "./lib/module/index.js",
-      "require": "./lib/module/index.js",
+      "import": "./lib/module/index.jsx",
+      "require": "./lib/module/index.jsx",
       "types": "./lib/typescript/src/index.d.ts"
     },
     "./package.json": "./package.json"
